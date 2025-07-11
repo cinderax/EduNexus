@@ -1,1 +1,2 @@
-# EduNexus
+# EduMentor_AI
+
